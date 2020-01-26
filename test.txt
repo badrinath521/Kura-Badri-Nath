@@ -1,1 +1,4 @@
-badri
+Kura Badri  Nath
+I have created my github account and installed git and gitbash.
+The repository name is Kura Badri Name and i have used git commands.
+And added the textfile called test
